@@ -1,4 +1,6 @@
-aeroplane
-bicycle
-bird
-boat
+corrosion
+paint_peel
+cable_dangle
+cable_cut
+RF
+MW
