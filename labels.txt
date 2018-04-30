@@ -1,6 +1,12 @@
 corrosion
+gap
+dent
+loose
+miss_align
+missing_part
 paint_peel
+radome
+mounts
 cable_dangle
 cable_cut
-RF
-MW
+foreign_object
