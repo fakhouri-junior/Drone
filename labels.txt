@@ -1,12 +1,6 @@
+tower
 corrosion
-gap
-dent
-loose
-miss_align
-missing_part
 paint_peel
-radome
-mounts
 cable_dangle
-cable_cut
-foreign_object
+RF_
+MW_
